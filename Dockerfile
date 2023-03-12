@@ -6,8 +6,8 @@ LABEL "com.github.actions.description"="Deploy Pelican Site to GitHub Pages"
 LABEL "com.github.actions.icon"="home"
 LABEL "com.github.actions.color"="red"
 
-LABEL "repository"="https://github.com/justgoodin/pelican-to-github-pages"
-LABEL "homepage"="https://github.com/justgoodin/pelican-to-github-pages"
+LABEL "repository"="https://github.com/diegoquintanav/pelican-to-github-pages"
+LABEL "homepage"="https://github.com/diegoquintanav/pelican-to-github-pages"
 
 ENV LC_ALL C.UTF-8
 ENV LANG en_US.UTF-8
