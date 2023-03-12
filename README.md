@@ -58,5 +58,5 @@ You can override them by adding the following in the pelican.yml file under env 
 
 - `PELICAN_CONFIG_FILE`: path to the `publishconf.py` configuration file
 - `PELICAN_CONTENT_FOLDER`: path to the `content` folder
-- `PYTHON_VERSION`: docker tag of python image used to run pelican. Default is `3.7-slim`, check others at <https://hub.docker.com/_/python/>.
+- `PYTHON_VERSION`: docker tag of python image used to run pelican. Check available tags at <https://hub.docker.com/_/python/>.
 
