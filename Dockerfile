@@ -1,4 +1,5 @@
-FROM python:3.7-slim
+ARG  PYTHON_VERSION=3.7-slim
+FROM python:${PYTHON_VERSION}
 
 LABEL "com.github.actions.name"="Deploy Pelican Site to GitHub Pages"
 LABEL "com.github.actions.description"="Deploy Pelican Site to GitHub Pages"
